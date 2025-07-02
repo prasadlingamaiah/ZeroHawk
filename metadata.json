@@ -1,0 +1,5 @@
+{
+  "name": "ZeroHawk Vulnerability Scanner",
+  "description": "An AI-powered tool to scan web applications for potential vulnerabilities.",
+  "requestFramePermissions": []
+}
